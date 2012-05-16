@@ -87,6 +87,6 @@ class Haplotype
 								read[i] = alt
 						end
 				end
-				[read, "c"*READ_SIZE]
+				[read, "+"*READ_SIZE]
 		end
 end
